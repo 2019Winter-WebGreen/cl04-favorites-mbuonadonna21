@@ -1,0 +1,30 @@
+/*
+* Mia Buonadonna
+* March 25, 2019
+* My Favorite Things
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+
+    background-color: powderblue
+    
+}
+
+#blacklab { width: 400px; height: 275px; }
+#lab {clear: right;}
+
+#concert { width: 550px; height: 350px; }
+#panic {clear: right;}
+
+#dessert { width: 450px; height: 300px; }
+#funnel {clear: left;}
+
+figure {float: right}
